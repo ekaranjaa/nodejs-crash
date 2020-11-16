@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-crash",
+  "version": "1.0.0",
+  "description": "Thanks to [The Net Ninja's](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) YouTube [course](https://youtu.be/zb3Qk8SG5Ms?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekaranjaa/nodejs-crash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekaranjaa/nodejs-crash/issues"
+  },
+  "homepage": "https://github.com/ekaranjaa/nodejs-crash#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
