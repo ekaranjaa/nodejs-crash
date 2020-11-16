@@ -17,5 +17,8 @@
     "url": "https://github.com/ekaranjaa/nodejs-crash/issues"
   },
   "homepage": "https://github.com/ekaranjaa/nodejs-crash#readme",
-  "dependencies": {}
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
 }
